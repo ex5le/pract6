@@ -1,0 +1,23 @@
+[33mcommit 0abfa12a9ef514134e80730fee6ddce2b6bed3ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: ex5le <nurzada_arlen@mail.ru>
+Date:   Thu Mar 23 13:56:58 2023 +0500
+
+    app.py.save
+
+[33mcommit 8ba6334f2bfd402cfa6a782c3e2009c6a305cc1e[m
+Author: ex5le <nurzada_arlen@mail.ru>
+Date:   Thu Mar 23 13:37:21 2023 +0500
+
+    rest
+
+[33mcommit 83ae461a4e707db1e502aa44d1049688339cd2da[m
+Author: ex5le <nurzada_arlen@mail.ru>
+Date:   Thu Mar 23 13:32:19 2023 +0500
+
+    Refactoring
+
+[33mcommit 77929ba7d7c86fe9262154462be041e3af78c1ce[m
+Author: ex5le <nurzada_arlen@mail.ru>
+Date:   Thu Mar 23 09:58:19 2023 +0500
+
+    init git
